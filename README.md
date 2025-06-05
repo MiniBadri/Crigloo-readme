@@ -61,7 +61,7 @@ Crigloo Mobile is a React Native app that allows digital marketing managers to m
 
 ## 📷 Screenshots
 
-*(Add screenshots here: drag images into the repo or link to hosted images)*
+
 ```md
 ![Dashboard Carousel](./screenshots/dashboard.png)
 ![Marketing Performance](./screenshots/marketing.png)
