@@ -68,22 +68,8 @@ Crigloo Mobile is a React Native app that allows digital marketing managers to m
 ![Funnel Insights](./screenshots/funnel.png)
 ```
 
----
 
-## 🚀 Getting Started *(Optional)*
-```bash
-# Clone repo (if public later)
-git clone https://github.com/yourusername/crigloo-mobile
-cd crigloo-mobile
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run android:dev
-# or
-npm run ios
-```
 
 
 
