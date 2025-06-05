@@ -1,7 +1,7 @@
 # 📱 Crigloo Mobile Dashboard App
 
 > **Built using React Native** | End-to-end mobile analytics app for digital marketers  
-> 🧠 **Solo Developer** | 🛠️ Production-Ready | 🔒 Auth + 🔌 API + 📊 Charts
+> 🧠 **Solo Developer**  | 🔒 Auth + 🔌 API + 📊 Charts
 
 ---
 
