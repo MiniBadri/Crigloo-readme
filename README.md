@@ -1,7 +1,7 @@
 # 📱 Crigloo Mobile Dashboard App
 
 > **Built using React Native** | End-to-end mobile analytics app for digital marketers  
-> 🧠 **Solo Developer** | 🛠️ Production-Ready | 🔒 Auth + 🔌 API + 📊 Charts
+> 🧠 **Solo Developer**  | 🔒 Auth + 🔌 API + 📊 Charts
 
 ---
 
@@ -61,44 +61,15 @@ Crigloo Mobile is a React Native app that allows digital marketing managers to m
 
 ## 📷 Screenshots
 
-*(Add screenshots here: drag images into the repo or link to hosted images)*
+
 ```md
-![Dashboard Carousel](./screenshots/dashboard.png)
-![Marketing Performance](./screenshots/marketing.png)
-![Funnel Insights](./screenshots/funnel.png)
+![Dashboard Carousel](./screenshots/social-Insights.png)
+![Marketing Performance](./screenshots/marketing-summary.png)
+![Funnel Insights](./screenshots/funnel-analysis.png)
 ```
 
----
 
-## 🚀 Getting Started *(Optional)*
-```bash
-# Clone repo (if public later)
-git clone https://github.com/yourusername/crigloo-mobile
-cd crigloo-mobile
 
-# Install dependencies
-npm install
 
-# Start development server
-npm run android:dev
-# or
-npm run ios
-```
 
-> You can provide `.env` file templates and API keys guidance if open sourcing this project in the future.
-
----
-
-## 📄 License *(Optional)*
-Add an open-source license if making the repo public, like MIT or Apache 2.0.
-
----
-
-## ❓ FAQ *(Optional)*
-- **Can I make the README public without making the repo public?**
-  - GitHub doesn't support a fully "public README in a private repo." However, you *can* create a **separate public repo** named something like `crigloo-readme` and put just this `README.md` and screenshots there.
-  - That way, you can share it with others while keeping your actual code private.
-
-Let me know if you'd like help creating that secondary public repo.
-ok
 
