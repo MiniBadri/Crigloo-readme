@@ -47,8 +47,7 @@ Crigloo Mobile is a React Native app that allows digital marketing managers to m
 
 ---
 
-🔌 Backend Communication 
-
+## 🔌 Backend Communication 
  - The app interacts with a RESTful backend hosted on AWS, which provides data for marketing performance, funnel metrics, and social media insights.
  -	The backend is deployed in three separate environments:
       -	Alpha – used for internal testing and early development
@@ -83,6 +82,7 @@ Crigloo Mobile is a React Native app that allows digital marketing managers to m
 | Alerts              | react-native-alert-notification                        |
 | Local Storage       | AsyncStorage                                           |
 | Analytics           | Firebase                                               |
+| styling             | Twailwind                                              |
 
 ---
 
