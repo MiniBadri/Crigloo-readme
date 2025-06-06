@@ -1,15 +1,16 @@
 # 📱 Crigloo Mobile Dashboard App
 
 > **Built using React Native** | End-to-end mobile analytics app for digital marketers  
-> 🧠 **Solo Developer**  | 🔒 Auth + 🔌 API + 📊 Charts
+> 🧠 **Solo Developer**  | 🔒 Auth + 🔌 API + 📊 Charts 
 
----
+--- 
+
 
 ## 🔍 Overview
 Crigloo Mobile is a React Native app that allows digital marketing managers to monitor real-time ad performance across platforms (Google, Facebook, Instagram, LinkedIn, YouTube). It connects to the company’s AWS backend and visualizes KPIs, funnel metrics, and social engagement through a mobile-friendly dashboard.
 
 ---
-##  High-Level Flow
+## 🔄🗂️ High-Level Flow
 
 - Upon launching the app, users are greeted with a carousel-based welcome screen that highlights new product features. At any point, users can choose to skip the walkthrough and proceed directly by tapping the Login or Sign Up buttons displayed at the bottom.
 - When a user logs in, their credentials are securely sent to Amazon Cognito for authentication. Upon successful login, the app receives an authentication token, which is then used to authorize subsequent API calls to fetch marketing and performance data.
